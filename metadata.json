@@ -1,0 +1,7 @@
+{
+  "name": "HydroFarm - Modern Hydroponics",
+  "description": "A comprehensive React-based e-commerce platform for a modern hydroponic farm, featuring product listings, cart management, and order tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
